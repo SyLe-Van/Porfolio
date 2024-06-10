@@ -7,7 +7,6 @@ import six from "../assets/svg/projects/six.svg";
 import seven from "../assets/svg/projects/seven.svg";
 import eight from "../assets/svg/projects/eight.svg";
 import nine from "../assets/svg/projects/nine.svg";
-import ten from "../assets/svg/projects/ten.svg";
 
 export const projectsData = [
   {
@@ -98,16 +97,5 @@ export const projectsData = [
     code: "https://github.com/SyLe-Van/Stock-Price-Prediction-",
     demo: "https://github.com/SyLe-Van/Stock-Price-Prediction-/blob/main/Customer%20Segmentation/Customer%20Segmentation.pdf",
     image: nine,
-  },
-  {
-    id: 10,
-    projectName:
-      "Hotel Reservations Classification: Apache Spark with Deep Learning Algorithm Using BigDL DLlib",
-    projectDesc:
-      "This paper explores the application of deep learning models, specifically Logistic Regression, DNN, and Random Forest, which is in Deep Learning Library (BigDL DLlib), for hotel reservation classification",
-    tags: ["Python", "Apache Spark", "Deep Learning"],
-    code: "https://github.com/SyLe-Van/Stock-Price-Prediction-",
-    demo: "https://github.com/SyLe-Van/Stock-Price-Prediction-/blob/main/Hotel%20Reservations%20Classification.pdf",
-    image: ten,
   },
 ];

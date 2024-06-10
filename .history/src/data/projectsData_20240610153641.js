@@ -107,7 +107,7 @@ export const projectsData = [
       "This paper explores the application of deep learning models, specifically Logistic Regression, DNN, and Random Forest, which is in Deep Learning Library (BigDL DLlib), for hotel reservation classification",
     tags: ["Python", "Apache Spark", "Deep Learning"],
     code: "https://github.com/SyLe-Van/Stock-Price-Prediction-",
-    demo: "https://github.com/SyLe-Van/Stock-Price-Prediction-/blob/main/Hotel%20Reservations%20Classification.pdf",
+    demo: "https://github.com/SyLe-Van/Stock-Price-Prediction-/blob/main/Customer%20Segmentation/Customer%20Segmentation.pdf",
     image: ten,
   },
 ];
