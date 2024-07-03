@@ -6,6 +6,6 @@ export const headerData = {
   desciption:
     "Welcome to my portfolio! Here, you'll find my projects, achievements, and skills in the field of technology. From coding projects on GitHub to professional highlights on LinkedIn, this platform offers a glimpse into my journey as an IT student. Explore how my passion for technology translates into practical solutions and collaborative work",
   image:
-    "https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-1/393003204_1514111392683548_4206460713441802419_n.jpg?stp=cp6_dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ELGqNOUD4UsQ7kNvgEJ6hZ_&_nc_ht=scontent.fsgn2-6.fna&cb_e2o_trans=q&oh=00_AYCMg9A2WTNWn9IarVBn7J0qRMIX7SU9Lhf6HceRf2esKA&oe=66589846",
+    "https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-1/393003204_1514111392683548_4206460713441802419_n.jpg?stp=cp6_dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=n2l1MglPONYQ7kNvgE0WG61&_nc_ht=scontent.fsgn2-6.fna&cb_e2o_trans=q&oh=00_AYCCygJVAoJd3_pwShXFrd__bsrWNDXtqGxdTgrTR6zt7A&oe=668B21C6",
   resumePdf: resume,
 };
